@@ -1,5 +1,4 @@
 ## ZetaSQL - Analyzer Framework for SQL
-
 ZetaSQL defines a language (grammar, types, data model, and semantics) as well
 as a parser and analyzer.  It is not itself a database or query engine. Instead
 it is intended to be used by multiple engines wanting to provide consistent
